@@ -1,6 +1,7 @@
 sutdy #1 
+##BACKJOON10182_스택 코드
 
-```c++
+```bash
 #include <stdio.h>
 #include <string.h>
 #include <ctype.h>
@@ -124,5 +125,3 @@ void top()
 		output[ocnt] = stack[0];
 	ocnt++;
 }
-
-```

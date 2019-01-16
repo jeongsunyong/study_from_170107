@@ -1,7 +1,7 @@
 sutdy #1 
 ##BACKJOON10182_스택 코드
 
-```bash
+```c "왜안바뀌지 " ```
 #include <stdio.h>
 #include <string.h>
 #include <ctype.h>

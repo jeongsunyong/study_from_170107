@@ -1,6 +1,6 @@
 sutdy #1 
 
-```C
+```c
 #include <stdio.h>
 #include <string.h>
 #include <ctype.h>
